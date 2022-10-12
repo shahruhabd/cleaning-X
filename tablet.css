@@ -1,0 +1,25 @@
+@media screen and (min-width:768px) and (max-width: 1023px){
+    header {
+        padding: 0 100px;
+        flex-wrap: wrap;
+        width: 100vw;
+    }
+    header ul {
+        margin-right: 0;
+    }
+    .block1 {
+        flex-direction: column;
+    }
+    .bl1_bl1 {
+        padding: 0 15px;
+    }
+    .bl1_bl1 h1 {
+        font-size: 30px;
+        margin-bottom: 22px;
+    }
+    .bl1_bl1 h2 {
+    font-size: 10px;
+
+    }
+    
+}
