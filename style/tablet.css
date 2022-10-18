@@ -14,6 +14,12 @@
         margin-left: 15px;
         height: 45px;
     }
+    .header_logo {
+        margin-left: 0;
+    }
+    .header-quote {
+        margin-right: 0;
+    }
     .block1 {
         padding: 0;
         flex-direction: column;
