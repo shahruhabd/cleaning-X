@@ -25,7 +25,6 @@ header {
     background-color: #fff;
 }
 header ul {
-    margin-right: 30%;
     display: flex;
 }
 header img {
@@ -255,6 +254,9 @@ button.hq_el {
     font-size: 28px;
     line-height: 36px;
     color: #211F54;
+}
+.bl3img {
+    width: 800px;
 }
 .block4 {
     height: 97vh;
