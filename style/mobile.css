@@ -77,6 +77,9 @@
     .bl2_bts button {
         margin: 10px 0;
     }
+    .bl2_items {
+        padding: 0 15px;
+    }
     .bl3_stat {
         flex-direction: column;
     }
@@ -89,5 +92,23 @@
     }
     .bl3img {
         width: 100%;
+    }
+    .bl4_h {
+        flex-direction: column;
+        align-items: center;
+    }
+    .block4 {
+        padding: 0;
+    }
+    .bl4_h-h1 {
+        margin: 15px 0;
+        text-align: center;
+        padding: 0 15px;
+    }
+    .bl4_h-btn {
+        height: 72px;
+    }
+    .bl4_content_el {
+        padding: 40px 15px;
     }
 }
