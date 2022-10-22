@@ -1,14 +1,12 @@
 @media screen and (min-width:320px) and (max-width: 425px) {
     header {
-        flex-direction: column;
-        justify-content: center;
         align-items: center;
         height: 100%;
         margin: 10px 0;
         width: 100%;
     }
     .header_logo {
-        margin-left: 0;
+        margin-left: 15px;
     }
     .header_logo img {
         width: 50px;
@@ -19,6 +17,12 @@
     header ul {
         flex-wrap: wrap;
         justify-content: center;
+    }
+    .menu-btn {
+        margin-right: 15px;
+    }
+    .menu {
+        width: 50%;
     }
     .block1 {
         flex-direction: column;
