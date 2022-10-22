@@ -5,6 +5,7 @@
         align-items: center;
         height: 100%;
         margin: 10px 0;
+        width: 100%;
     }
     .header_logo {
         margin-left: 0;
@@ -57,7 +58,7 @@
         font-size: 20px;
     }
     .bl1_bl2 img {
-        height: 55vh;
+        height: 40vh;
     }
     .bl2_header {
         width: 100%;
@@ -67,6 +68,7 @@
     }
     .bl2_header_h1 {
         text-align: center;
+        font-size: 30px;
     }
     .bl2_items img {
         width: 200px;
@@ -82,6 +84,9 @@
     }
     .bl3_stat {
         flex-direction: column;
+    }
+    .bl3_h1 {
+        font-size: 30px;
     }
     .bl3_stat_bl {
         margin: 0;
@@ -104,6 +109,7 @@
         margin: 15px 0;
         text-align: center;
         padding: 0 15px;
+        font-size: 30px;
     }
     .bl4_h-btn {
         height: 72px;

@@ -7,7 +7,7 @@
     justify-content: center;
     align-items: center;
     gap: 15px;
-    margin-left: 100px;
+    margin-left: 20px;
 }
 .header_logo > div {
     letter-spacing: 2px;
@@ -43,7 +43,7 @@ header a {
 .header-quote {
     display: flex;
     align-items: center;
-    margin-right: 100px;
+    margin-right: 20px;
 }
 .hq_el {
     margin: 10px;
